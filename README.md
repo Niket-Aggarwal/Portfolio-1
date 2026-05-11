@@ -1,41 +1,36 @@
-# 🌐 Developer Portfolio
-A modern, responsive personal portfolio built using **HTML, CSS, and JavaScript**, inspired by a sleek glassmorphism UI design.
+# Personal Portfolio Website
+A responsive and modern portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and contact information.
 
-## 🚀 Live Demo
-🔗will provide
+## 🚀 Live Link
+🔗 https://your-portfolio-link.com
+
+## 📌 About The Project
+This is my personal developer portfolio website created to highlight my projects, technical skills, and achievements.  
+The website is fully responsive and works smoothly across desktop, tablet, and mobile devices.
 
 ## ✨ Features
-* ⚡ Clean and modern UI
-* 🌙 Dark theme with gradient glow effects
-* 🧊 Glassmorphism-inspired design
-* 📱 Fully responsive layout
-* 🎯 Smooth section-based navigation
-* 📊 Stats section (experience, projects, etc.)
-* 🔗 Social media integration
+- Responsive Design
+- Modern User Interface
+- Hero Section
+- About Section
+- Skills Section
+- Projects Showcase
+- Contact Section
+- Mobile Navigation Menu
+- Smooth Animations & Hover Effects
 
-## 🛠️ Tech Stack
-* **HTML5** – Structure
-* **CSS3** – Styling (Flexbox, Grid, Glassmorphism, Gradients)
-* **JavaScript** – Interactivity
+## 🛠️ Built With
+- HTML5
+- CSS3
+- JavaScript
 
-## 📁 Folder Structure
-```
+## 📂 Folder Structure
+``` 
 portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│   ├── images/
-│   └── icons/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+└── README.md
 ```
-
-## 🧠 What I Learned
-* Building modern UI layouts from visual references
-* Implementing glassmorphism effects using CSS
-* Improving responsive design skills
-* Structuring clean and readable HTML
-
-## 👀 Take a Look
-Check out the portfolio and let me know what you think!
-<br>
-For any work, collaborations, or opportunities — feel free to reach out anytime.
